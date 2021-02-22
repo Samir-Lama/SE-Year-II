@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/samirlama/Desktop/College Work L5/SE/Week 10/PayRoll.cpp
+PayRoll.h
+/Users/samirlama/Desktop/College Work L5/SE/Week 10/PayRoll.h
+iostream
+-
+
+/Users/samirlama/Desktop/College Work L5/SE/Week 10/PayRoll.h
+

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/samirlama/Desktop/College Work/SE/Week 16/Employee.h
+string
+-
+
+/Users/samirlama/Desktop/College Work/SE/Week 16/Laborer.h
+
+/Users/samirlama/Desktop/College Work/SE/Week 16/Manager.h
+string
+-
+Employee.h
+/Users/samirlama/Desktop/College Work/SE/Week 16/Employee.h
+Student.h
+/Users/samirlama/Desktop/College Work/SE/Week 16/Student.h
+
+/Users/samirlama/Desktop/College Work/SE/Week 16/Scientist.h
+Employee.h
+/Users/samirlama/Desktop/College Work/SE/Week 16/Employee.h
+Student.h
+/Users/samirlama/Desktop/College Work/SE/Week 16/Student.h
+
+/Users/samirlama/Desktop/College Work/SE/Week 16/Student.h
+string
+-
+
+/Users/samirlama/Desktop/College Work/SE/Week 16/main.cpp
+iostream
+-
+Employee.h
+/Users/samirlama/Desktop/College Work/SE/Week 16/Employee.h
+Manager.h
+/Users/samirlama/Desktop/College Work/SE/Week 16/Manager.h
+Student.h
+/Users/samirlama/Desktop/College Work/SE/Week 16/Student.h
+Scientist.h
+/Users/samirlama/Desktop/College Work/SE/Week 16/Scientist.h
+Laborer.h
+/Users/samirlama/Desktop/College Work/SE/Week 16/Laborer.h
+
