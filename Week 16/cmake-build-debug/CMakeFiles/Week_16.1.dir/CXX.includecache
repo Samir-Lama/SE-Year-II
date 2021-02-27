@@ -38,15 +38,13 @@ string
 iostream
 -
 
-/Users/samirlama/Desktop/College Work/SE/Week 16/main.cpp
+/Users/samirlama/Desktop/College Work/SE/Week 16/ex1.cpp
 iostream
 -
 Ex 1/Employee.h
 /Users/samirlama/Desktop/College Work/SE/Week 16/Ex 1/Employee.h
 Ex 1/Manager.h
 /Users/samirlama/Desktop/College Work/SE/Week 16/Ex 1/Manager.h
-Ex 1/Student.h
-/Users/samirlama/Desktop/College Work/SE/Week 16/Ex 1/Student.h
 Ex 1/Scientist.h
 /Users/samirlama/Desktop/College Work/SE/Week 16/Ex 1/Scientist.h
 Ex 1/Laborer.h

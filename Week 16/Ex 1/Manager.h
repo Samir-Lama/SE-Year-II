@@ -1,6 +1,7 @@
 #ifndef MANAGER_H
 #define MANAGER_H
 #include <string>
+#include <iostream>
 #include "Employee.h"
 #include "Student.h"
 using namespace std;
@@ -11,12 +12,14 @@ private:
     string title;
     int dues;
 public:
-    void getData(string title, int dues){
-        Manager::title = title;
-        Manager::dues = dues;
+    void getData(){
+       cout << "Enter Manger title: ";
+       cin >> title;
+       cout << "Enter Manager dues: ";
+       cin >> dues;
     }
     void putData(){
-        cout << "Title: " << title << "Dues: " << dues;
+        cout << "Manger title: " << title << "Manger dues: " << dues;
     }
 };
 #endif

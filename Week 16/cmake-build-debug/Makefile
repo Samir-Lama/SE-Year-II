@@ -131,44 +131,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Week_16
+# Target rules for targets named Week_16.1
 
 # Build rule for target.
-Week_16: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Week_16
-.PHONY : Week_16
+Week_16.1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Week_16.1
+.PHONY : Week_16.1
 
 # fast build rule for target.
-Week_16/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.dir/build.make CMakeFiles/Week_16.dir/build
-.PHONY : Week_16/fast
+Week_16.1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.1.dir/build.make CMakeFiles/Week_16.1.dir/build
+.PHONY : Week_16.1/fast
 
-main.o: main.cpp.o
+ex1.o: ex1.cpp.o
 
-.PHONY : main.o
+.PHONY : ex1.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.dir/build.make CMakeFiles/Week_16.dir/main.cpp.o
-.PHONY : main.cpp.o
+ex1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.1.dir/build.make CMakeFiles/Week_16.1.dir/ex1.cpp.o
+.PHONY : ex1.cpp.o
 
-main.i: main.cpp.i
+ex1.i: ex1.cpp.i
 
-.PHONY : main.i
+.PHONY : ex1.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.dir/build.make CMakeFiles/Week_16.dir/main.cpp.i
-.PHONY : main.cpp.i
+ex1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.1.dir/build.make CMakeFiles/Week_16.1.dir/ex1.cpp.i
+.PHONY : ex1.cpp.i
 
-main.s: main.cpp.s
+ex1.s: ex1.cpp.s
 
-.PHONY : main.s
+.PHONY : ex1.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.dir/build.make CMakeFiles/Week_16.dir/main.cpp.s
-.PHONY : main.cpp.s
+ex1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.1.dir/build.make CMakeFiles/Week_16.1.dir/ex1.cpp.s
+.PHONY : ex1.cpp.s
 
 # Help Target
 help:
@@ -178,10 +178,10 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... Week_16"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... Week_16.1"
+	@echo "... ex1.o"
+	@echo "... ex1.i"
+	@echo "... ex1.s"
 .PHONY : help
 
 

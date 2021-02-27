@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Week_16" targetName="Week_16.1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bde502ca-7777-41dd-8516-8d27f94a62dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 16/ex1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/Employee.h" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/Ex 1/Employee.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/Laborer.h" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/Ex 1/Laborer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/Manager.h" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/Ex 1/Manager.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/Scientist.h" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/Ex 1/Scientist.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/Student.h" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/Ex 1/Student.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/Week_16.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/Week_16.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1p0OQmx9ecj0PWrhAeDmbXLJeuZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week 16" />
+      <recent name="$PROJECT_DIR$/Week 16/Ex 1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Week_16.1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week_16" TARGET_NAME="Week_16.1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week_16" RUN_TARGET_NAME="Week_16.1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bde502ca-7777-41dd-8516-8d27f94a62dc" name="Default Changelist" comment="" />
+      <created>1614316532739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614316532739</updated>
+      <workItem from="1614316536411" duration="604000" />
+      <workItem from="1614406306754" duration="329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

@@ -1,9 +1,9 @@
  #include <iostream>
-#include "Employee.h"
-#include "Manager.h"
-#include "Student.h"
-#include "Scientist.h"
-#include "Laborer.h"
+#include "Ex 1/Employee.h"
+#include "Ex 1/Manager.h"
+#include "Ex 1/Student.h"
+#include "Ex 1/Scientist.h"
+#include "Ex 1/Laborer.h"
 int main() {
     Employee emp;
     emp.getData("Ram", 220);

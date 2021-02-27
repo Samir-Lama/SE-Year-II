@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Week_16.dir/main.cpp.o"
+  "CMakeFiles/Week_16.dir/ex1.cpp.o"
   "Week_16"
   "Week_16.pdb"
 )
