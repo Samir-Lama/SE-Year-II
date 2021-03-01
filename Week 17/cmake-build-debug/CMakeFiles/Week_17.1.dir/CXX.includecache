@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/samirlama/Desktop/College Work/SE/Week 17/Ex 1/Book.cpp
+Book.h
+/Users/samirlama/Desktop/College Work/SE/Week 17/Ex 1/Book.h
+string
+-
+
+/Users/samirlama/Desktop/College Work/SE/Week 17/Ex 1/Book.h
+Publication.h
+/Users/samirlama/Desktop/College Work/SE/Week 17/Ex 1/Publication.h
+
+/Users/samirlama/Desktop/College Work/SE/Week 17/Ex 1/Publication.cpp
+Publication.h
+/Users/samirlama/Desktop/College Work/SE/Week 17/Ex 1/Publication.h
+iostream
+-
+
+/Users/samirlama/Desktop/College Work/SE/Week 17/Ex 1/Publication.h
+string
+-
+
+/Users/samirlama/Desktop/College Work/SE/Week 17/Ex 1/Tape.cpp
+Tape.h
+/Users/samirlama/Desktop/College Work/SE/Week 17/Ex 1/Tape.h
+
+/Users/samirlama/Desktop/College Work/SE/Week 17/Ex 1/Tape.h
+
+/Users/samirlama/Desktop/College Work/SE/Week 17/ex1.cpp
+Ex 1/Publication.cpp
+/Users/samirlama/Desktop/College Work/SE/Week 17/Ex 1/Publication.cpp
+Ex 1/Book.cpp
+/Users/samirlama/Desktop/College Work/SE/Week 17/Ex 1/Book.cpp
+Ex 1/Tape.cpp
+/Users/samirlama/Desktop/College Work/SE/Week 17/Ex 1/Tape.cpp
+
