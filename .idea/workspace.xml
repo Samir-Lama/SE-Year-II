@@ -3,6 +3,7 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="Week_16" targetName="Week_16.1" />
+      <config projectName="Week_16" targetName="Week_16.2" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -12,30 +13,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde502ca-7777-41dd-8516-8d27f94a62dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 16/ex1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 16/Ex 2/Employee.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 16/Ex 2/ProductionWoker.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 16/ex2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week 16/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 16/Employee.h" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/Ex 1/Employee.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 16/Laborer.h" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/Ex 1/Laborer.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 16/Manager.h" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/Ex 1/Manager.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 16/Scientist.h" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/Ex 1/Scientist.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 16/Student.h" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/Ex 1/Student.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Week_16.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week 16/cmake-build-debug/Week_16.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/cmake-build-debug/Week_16.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 16/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Week 16/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +56,18 @@
       <recent name="$PROJECT_DIR$/Week 16/Ex 1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="CMake Application.Week_16.1">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Week_16.1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week_16" TARGET_NAME="Week_16.1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week_16" RUN_TARGET_NAME="Week_16.1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="Week_16.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week_16" TARGET_NAME="Week_16.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week_16" RUN_TARGET_NAME="Week_16.2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -83,6 +77,10 @@
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="CMake Application.Week_16.1" />
+      <item itemvalue="CMake Application.Week_16.2" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,7 +91,8 @@
       <option name="presentableId" value="Default" />
       <updated>1614316532739</updated>
       <workItem from="1614316536411" duration="604000" />
-      <workItem from="1614406306754" duration="329000" />
+      <workItem from="1614406306754" duration="581000" />
+      <workItem from="1614602140010" duration="19000" />
     </task>
     <servers />
   </component>

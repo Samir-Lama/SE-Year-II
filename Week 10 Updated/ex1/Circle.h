@@ -11,22 +11,13 @@ private:
     double radius, pi =3.14159;
 
 public:
-    Circle(double r){
-        radius = r;
-    }
+    Circle(double);
 
-    void setRadius(double r) {
-        radius = r;
-    }
+    void setRadius(double);
 
-    double getRadius(){
-        return radius;
-    }
+    double getRadius();
 
-    double getArea(){
-        double area = pi * radius * radius;
-        return area;
-    }
+    double getArea();
 
     double getDiameter(){
         double diameter = radius * 2;

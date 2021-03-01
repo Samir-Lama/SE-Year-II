@@ -1,3 +1,5 @@
 /Users/samirlama/Desktop/College Work/SE/Week 16/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /Users/samirlama/Desktop/College Work/SE/Week 16/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/samirlama/Desktop/College Work/SE/Week 16/cmake-build-debug/CMakeFiles/Week_16.3.dir
+/Users/samirlama/Desktop/College Work/SE/Week 16/cmake-build-debug/CMakeFiles/Week_16.2.dir
 /Users/samirlama/Desktop/College Work/SE/Week 16/cmake-build-debug/CMakeFiles/Week_16.1.dir

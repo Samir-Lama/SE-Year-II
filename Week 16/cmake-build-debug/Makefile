@@ -131,6 +131,32 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named Week_16.3
+
+# Build rule for target.
+Week_16.3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Week_16.3
+.PHONY : Week_16.3
+
+# fast build rule for target.
+Week_16.3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.3.dir/build.make CMakeFiles/Week_16.3.dir/build
+.PHONY : Week_16.3/fast
+
+#=============================================================================
+# Target rules for targets named Week_16.2
+
+# Build rule for target.
+Week_16.2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Week_16.2
+.PHONY : Week_16.2
+
+# fast build rule for target.
+Week_16.2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.2.dir/build.make CMakeFiles/Week_16.2.dir/build
+.PHONY : Week_16.2/fast
+
+#=============================================================================
 # Target rules for targets named Week_16.1
 
 # Build rule for target.
@@ -170,6 +196,60 @@ ex1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.1.dir/build.make CMakeFiles/Week_16.1.dir/ex1.cpp.s
 .PHONY : ex1.cpp.s
 
+ex2.o: ex2.cpp.o
+
+.PHONY : ex2.o
+
+# target to build an object file
+ex2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.2.dir/build.make CMakeFiles/Week_16.2.dir/ex2.cpp.o
+.PHONY : ex2.cpp.o
+
+ex2.i: ex2.cpp.i
+
+.PHONY : ex2.i
+
+# target to preprocess a source file
+ex2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.2.dir/build.make CMakeFiles/Week_16.2.dir/ex2.cpp.i
+.PHONY : ex2.cpp.i
+
+ex2.s: ex2.cpp.s
+
+.PHONY : ex2.s
+
+# target to generate assembly for a file
+ex2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.2.dir/build.make CMakeFiles/Week_16.2.dir/ex2.cpp.s
+.PHONY : ex2.cpp.s
+
+ex3.o: ex3.cpp.o
+
+.PHONY : ex3.o
+
+# target to build an object file
+ex3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.3.dir/build.make CMakeFiles/Week_16.3.dir/ex3.cpp.o
+.PHONY : ex3.cpp.o
+
+ex3.i: ex3.cpp.i
+
+.PHONY : ex3.i
+
+# target to preprocess a source file
+ex3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.3.dir/build.make CMakeFiles/Week_16.3.dir/ex3.cpp.i
+.PHONY : ex3.cpp.i
+
+ex3.s: ex3.cpp.s
+
+.PHONY : ex3.s
+
+# target to generate assembly for a file
+ex3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Week_16.3.dir/build.make CMakeFiles/Week_16.3.dir/ex3.cpp.s
+.PHONY : ex3.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -179,9 +259,17 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Week_16.1"
+	@echo "... Week_16.2"
+	@echo "... Week_16.3"
 	@echo "... ex1.o"
 	@echo "... ex1.i"
 	@echo "... ex1.s"
+	@echo "... ex2.o"
+	@echo "... ex2.i"
+	@echo "... ex2.s"
+	@echo "... ex3.o"
+	@echo "... ex3.i"
+	@echo "... ex3.s"
 .PHONY : help
 
 

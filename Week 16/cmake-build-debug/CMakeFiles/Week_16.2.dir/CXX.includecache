@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/samirlama/Desktop/College Work/SE/Week 16/Ex 2/Employee.h
+string
+-
+
+/Users/samirlama/Desktop/College Work/SE/Week 16/Ex 2/ProductionWoker.h
+iostream
+-
+
+/Users/samirlama/Desktop/College Work/SE/Week 16/ex2.cpp
+Ex 2/Employee.h
+/Users/samirlama/Desktop/College Work/SE/Week 16/Ex 2/Employee.h
+Ex 2/ProductionWoker.h
+/Users/samirlama/Desktop/College Work/SE/Week 16/Ex 2/ProductionWoker.h
+

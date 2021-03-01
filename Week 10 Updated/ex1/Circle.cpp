@@ -5,19 +5,23 @@
 #include "Circle.h"
 #include <iostream>
 using namespace std;
+Circle::Circle(double r){
+    radius = r;
+}
 
+void Circle::setRadius(double r) {
+    radius = r;
+}
 
+double Circle::getRadius() {
+    return radius;
+}
+
+double Circle::getArea(){
+        double area = pi * radius * radius;
+        return area;
+}
 int main(){
-    double r;
-    cout << "Enter radius of the circle: ";
-    cin >> r;
 
-    Circle circle = r;
-
-    circle.setRadius(r);
-    cout << "Circle Area is: " << circle.getArea();
-    cout << "\nCircle Diamtere is " << circle.getDiameter();
-    cout << "\nCircle Circumference is " << circle.getCircumference();
-    return 0;
 }
 
